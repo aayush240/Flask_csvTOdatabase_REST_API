@@ -1,5 +1,10 @@
 # Flask_csvTOdatabase_REST_API
 
+REST API that does the following things : 
+1. Allows user to upload a CSV file.
+2. The API should then upload the rows in CSV file to any database of your choice.
+3. Returns a list of all entries in the database.
+ 
 ## Html Form to upload CSV 
 ![image](https://user-images.githubusercontent.com/73228854/146666239-6cfe9861-00f5-4cd9-bc7c-e45c6e9bb3c2.png)
 
