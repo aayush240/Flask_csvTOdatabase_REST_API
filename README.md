@@ -3,6 +3,10 @@
 ## Html Form to upload CSV 
 ![image](https://user-images.githubusercontent.com/73228854/146666239-6cfe9861-00f5-4cd9-bc7c-e45c6e9bb3c2.png)
 
+## Database After CSV upload
+![image](https://user-images.githubusercontent.com/73228854/146666537-4f478028-be0c-4a6e-b082-4e68bfb3022f.png)
+
+
 ## Display Database
 ![image](https://user-images.githubusercontent.com/73228854/146666067-68dbf2ca-5d0a-4641-a027-bbb050be5a6f.png)
 
